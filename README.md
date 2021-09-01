@@ -1,5 +1,5 @@
 <!-- [![Intro Gif](ReadmeGif.gif)](https://muhammadzaman.tech/) -->
-[<img src="MZ985GIF.gif" width="100%" height="200px"/>](https://muhammadzaman.tech/)
+[<img src="MZ985GIF.gif" width="100%"/>](https://muhammadzaman.tech/)
 
 
 - 👋 Hi, I’m @MuhammadZ985 (Muhammad Zaman)
