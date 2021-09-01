@@ -1,6 +1,8 @@
 <!-- [![Intro Gif](ReadmeGif.gif)](https://muhammadzaman.tech/) -->
 [<img src="MZ985GIF.gif" width="100%"/>](https://muhammadzaman.tech/)
 
+https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<your own page_id here>
+
 
 - 👋 Hi, I’m @MuhammadZ985 (Muhammad Zaman)
 - 👀 I’m interested in data science with python, namley in machine learning and data visualization, along with full stack web development.
