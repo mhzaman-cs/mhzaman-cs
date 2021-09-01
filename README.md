@@ -6,14 +6,16 @@
 <h3 align="center">A passionate Full Stack Developer studying Computer Science at the University of Waterloo.</h3>
 
 <p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2026.</p>
-<br><br>
+<br>
 <p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons (see experience description and GitHub for more information). Internships specifically related to computer science interest me; however, I am willing to work flexibly in a different position.</p>
-<br><br>
+<br>
 
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional in the field of computer science.</p>
-<br><br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadz985&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadz985" /> </p>
+
+<br>
 
 - 🔭 I’m currently working on [Website Generator](https://github.com/MuhammadZ985/WebsiteGen)
 
