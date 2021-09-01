@@ -1,4 +1,6 @@
-![Intro Gif](ReadmeGif.gif)
+<!-- [![Intro Gif](ReadmeGif.gif)](https://muhammadzaman.tech/) -->
+[<img src="ReadmeGif.gif" width="100%" height="250"/>](https://muhammadzaman.tech/)
+
 
 - 👋 Hi, I’m @MuhammadZ985 (Muhammad Zaman)
 - 👀 I’m interested in data science with python, namley in machine learning and data visualization, along with full stack web development.
