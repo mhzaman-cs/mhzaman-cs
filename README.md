@@ -1,3 +1,5 @@
+![Intro Gif](ReadmeGif.gif)
+
 - 👋 Hi, I’m @MuhammadZ985 (Muhammad Zaman)
 - 👀 I’m interested in data science with python, namley in machine learning and data visualization, along with full stack web development.
 - 🌱 I’m currently learning Web developemenst tools. 
