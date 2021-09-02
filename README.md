@@ -18,15 +18,15 @@
 <br>
 
 <h3 align="left">🔭 I’m currently working on...</h3> 
-- [Website Generator](https://github.com/MuhammadZ985/WebsiteGen): This project would produce frontend webpages based on a series of questions and would then return static pages as code in the form of zip files. This would allow for flexibility while offering professional websites for users to utilize.  
-- [WeatherCity](https://github.com/MuhammadZ985/WeatherProject): This full-stack website utilizes node.js for its backend along with OpenWeatherMap's API to display the weather in the city inputted in the search bar. It also shows the current weather based on location on the home page. 
-- [GetStocks](https://github.com/MuhammadZ985/GetStocks): GetStocks offers the data visualization of any stock along with providing a recommendation about whether or not the stock should be bought or sold. This recommendation will be displayed on a meter based on how strong the recommendation is. 
+- <a href="https://github.com/MuhammadZ985/WebsiteGen">Website Generator</a>: This project would produce frontend webpages based on a series of questions and would then return static pages as code in the form of zip files. This would allow for flexibility while offering professional websites for users to utilize.  
+- <a href="https://github.com/MuhammadZ985/WeatherProject">WeatherCity</a>: This full-stack website utilizes node.js for its backend along with OpenWeatherMap's API to display the weather in the city inputted in the search bar. It also shows the current weather based on location on the home page. 
+- <a href="https://github.com/MuhammadZ985/GetStocks">GetStocks</a>: GetStocks offers the data visualization of any stock along with providing a recommendation about whether or not the stock should be bought or sold. This recommendation will be displayed on a meter based on how strong the recommendation is. 
 
- <h3 align="left">👨‍💻 All of my projects are available at [https://github.com/MuhammadZ985](https://github.com/MuhammadZ985)</h3> 
+ <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/MuhammadZ985">https://github.com/MuhammadZ985</a></h3> 
 
 <h3 align="left">📫 How to reach me **mh.zaman.4069@gmail.com**</h3>
 
-<h3 align="left">📄 Learn more about my experiences on my Linkedin profile: [https://www.linkedin.com/in/muhammad-hamza-zaman/](https://www.linkedin.com/in/muhammad-hamza-zaman/)</h3>
+<h3 align="left">📄 Learn more about my experiences on my Linkedin profile: <a href="https://www.linkedin.com/in/muhammad-hamza-zaman/">https://www.linkedin.com/in/muhammad-hamza-zaman/</a></h3>
 
 <br>
 
