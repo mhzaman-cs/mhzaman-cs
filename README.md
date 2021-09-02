@@ -18,6 +18,7 @@
 <br>
 
 <h3 align="left">🔭 I’m currently working on...</h3> 
+
 - <a href="https://github.com/MuhammadZ985/WebsiteGen">Website Generator</a>: This project would produce frontend webpages based on a series of questions and would then return static pages as code in the form of zip files. This would allow for flexibility while offering professional websites for users to utilize.  
 
 - <a href="https://github.com/MuhammadZ985/WeatherProject">WeatherCity</a>: This full-stack website utilizes node.js for its backend along with OpenWeatherMap's API to display the weather in the city inputted in the search bar. It also shows the current weather based on location on the home page. 
