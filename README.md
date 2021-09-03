@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">A passionate Full Stack Developer studying Computer Science at the University of Waterloo.</h3>
+<h2 align="center">A Passionate Full Stack Developer Studying Computer Science at the University of Waterloo.</h2>
 
 <p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2026.</p>
 <br>
@@ -25,6 +25,8 @@
 
 - <a href="https://github.com/MuhammadZ985/GetStocks">GetStocks</a>: GetStocks offers the data visualization of any stock along with providing a recommendation about whether or not the stock should be bought or sold. This recommendation will be displayed on a meter based on how strong the recommendation is. 
 
+- <a href="https://github.com/MuhammadZ985/Forex">Forex</a>: Currency conversion fees are usually considered to be unavoidable. But due to the amount of money exchanged globally between different currencies, traders could easily exchange the money directly between themselves, thus avoiding the conversion fees. This website is where people would post what currencies they have and which ones they desire. Once a match is found they meet up and trade. 
+
 <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/MuhammadZ985">https://github.com/MuhammadZ985</a></h3> 
 
 <h3 align="left">📫 How to reach me **mh.zaman.4069@gmail.com**</h3>
@@ -36,6 +38,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hamza-zaman/" height="30" width="40" /></a> <a href="https://fb.com/muhammadz895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadz895" height="30" width="40" /></a> <a href="https://instagram.com/muhammadhzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadhzaman" height="30" width="40" /></a> <a href="https://discord.gg/Muhammad Z#7586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammad Z#7586" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left">Take a Look at the cool things that helped in the construction of this README:</h3>
+<p align="left">
+Introduction Gif Inspiration: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">https://github.com/Raymo111/Raymo111/blob/master/intro.gif</a>
+
+README Structure Inspiration: <a href="https://github.com/rahuldkjain/">https://github.com/rahuldkjain/</a>
 </p>
 
 <br>
