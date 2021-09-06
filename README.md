@@ -7,7 +7,7 @@
 
 <p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2026.</p>
 <br>
-<p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons (see experience description and GitHub for more information). Internships specifically related to computer science interest me; however, I am willing to work flexibly in a different position.</p>
+<p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons. Internships specifically related to computer science interest me; however, I am willing to work flexibly in a different position.</p>
 <br>
 
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional in the field of computer science.</p>
