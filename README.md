@@ -7,7 +7,7 @@
 
 <p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2026.</p>
 <br>
-<p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons. Internships specifically related to computer science interest me; however, I am willing to work flexibly in a different position.</p>
+<p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
 <br>
 
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional in the field of computer science.</p>
@@ -29,7 +29,7 @@
 
 <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/MuhammadZ985">https://github.com/MuhammadZ985</a></h3> 
 
-<h3 align="left">📫 Feel free to send me an email at mh.zaman.4069@gmail.com</h3>
+<h3 align="left">📫 Feel free to send me an email at <a href="mh.zaman.4069@gmail.com">mh.zaman.4069@gmail.com</a></h3>
 
 <h3 align="left">📄 Learn more about my experiences on my Linkedin profile: <a href="https://www.linkedin.com/in/muhammad-hamza-zaman/">https://www.linkedin.com/in/muhammad-hamza-zaman/</a></h3>
 
@@ -45,6 +45,7 @@
 <h3 align="left">Take a Look at the cool things that helped in the construction of this README:</h3>
 <p align="left">
 Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">Raymond Li</a>
+<br>
 Github Stats: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 </p>
 
@@ -56,11 +57,11 @@ Github Stats: <a href="https://github.com/anuraghazra/github-readme-stats">Anura
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="left" height="200" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadz985&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="left" height="300" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadz985&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
 </a>
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="right" height="200" width="45%" src="https://github-readme-stats.vercel.app/api?username=muhammadz985&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="right" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=muhammadz985&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
 </a>
 
