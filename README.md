@@ -5,9 +5,9 @@
 
 <h2 align="center">A Passionate Full Stack Developer Studying Computer Science at the University of Waterloo.</h2>
 
-<p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2026.</p>
+<p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2025.</p>
 <br>
-<p align="left">I am interested specifically in data science and machine learning with python along with full-stack web development. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
+<p align="left">I am interested specifically in FinTech, Software Engineering, and Data Science. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
 <br>
 
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional in the field of computer science.</p>
@@ -19,13 +19,15 @@
 
 <h3 align="left">🔭 I’m currently working on...</h3> 
 
-- <a href="https://github.com/MuhammadZ985/WebsiteGen">Website Generator</a>: This project would produce frontend webpages based on a series of questions and would then return static pages as code in the form of zip files. This would allow for flexibility while offering professional websites for users to utilize.  
+- <a href="https://github.com/MuhammadZ985/Forex">Forex</a>: Currency conversion fees are usually considered to be unavoidable. But due to the amount of money exchanged globally between different currencies, traders could easily exchange the money directly between themselves, thus avoiding the conversion fees. This website is where people would post what currencies they have and which ones they desire. Once a match is found they meet up and trade. 
 
-- <a href="https://github.com/MuhammadZ985/WeatherProject">WeatherCity</a>: This full-stack website utilizes node.js for its backend along with OpenWeatherMap's API to display the weather in the city inputted in the search bar. It also shows the current weather based on location on the home page. 
+- <a href="https://github.com/MuhammadZ985/WebsiteGen">Website Generator</a>: This project would produce frontend webpages based on a series of questions and would then return static pages as code in the form of zip files. This would allow for flexibility while offering professional websites for users to utilize.  
 
 - <a href="https://github.com/MuhammadZ985/GetStocks">GetStocks</a>: GetStocks offers the data visualization of any stock along with providing a recommendation about whether or not the stock should be bought or sold. This recommendation will be displayed on a meter based on how strong the recommendation is. 
 
-- <a href="https://github.com/MuhammadZ985/Forex">Forex</a>: Currency conversion fees are usually considered to be unavoidable. But due to the amount of money exchanged globally between different currencies, traders could easily exchange the money directly between themselves, thus avoiding the conversion fees. This website is where people would post what currencies they have and which ones they desire. Once a match is found they meet up and trade. 
+- <a href="https://github.com/MuhammadZ985/WeatherProject">WeatherCity</a>: This full-stack website utilizes node.js for its backend along with OpenWeatherMap's API to display the weather in the city inputted in the search bar. It also shows the current weather based on location on the home page. 
+
+
 
 <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/MuhammadZ985">https://github.com/MuhammadZ985</a></h3> 
 
@@ -37,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hamza-zaman/" height="30" width="40" /></a> <a href="https://www.facebook.com/MuhammadZ985/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadz895" height="30" width="40" /></a> <a href="https://instagram.com/muhammadhzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadhzaman" height="30" width="40" /></a> <a href="https://discord.gg/Muhammad Z#7586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammad Z#7586" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hamza-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hamza-zaman/" height="30" width="40" /></a> <a href="https://www.facebook.com/MuhammadZ985/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadz895" height="30" width="40" /></a> <a href="https://instagram.com/muhammadhzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadhzaman" height="30" width="40" /></a> <a href="https://discord.gg/#7586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammad Z#7586" height="30" width="40" /></a>
 </p>
 
 <br>
