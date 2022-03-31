@@ -5,7 +5,7 @@
 
 <h2 align="center">A Passionate Full Stack Developer Studying Computer Science at the University of Waterloo.</h2>
 
-<p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2025.</p>
+<p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2024.</p>
 <br>
 <p align="left">I am interested specifically in FinTech, Software Engineering, and Data Science. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
 <br>
