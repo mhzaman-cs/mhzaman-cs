@@ -31,7 +31,7 @@
 
 <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/MuhammadZ985">https://github.com/MuhammadZ985</a></h3> 
 
-<h3 align="left">📫 Feel free to send me an email at <a href="mh.zaman.4069@gmail.com">mh.zaman.4069@gmail.com</a></h3>
+<h3 align="left">📫 Feel free to send me an email at <a href="mailto:mhzaman.cs@gmail.com">mhzaman.cs@gmail.com</a></h3>
 
 <h3 align="left">📄 Learn more about my experiences on my Linkedin profile: <a href="https://www.linkedin.com/in/muhammad-hamza-zaman/">https://www.linkedin.com/in/muhammad-hamza-zaman/</a></h3>
 
