@@ -3,14 +3,14 @@
 
 
 
-<h2 align="center">A Passionate Full Stack Developer Studying Computer Science at the University of Waterloo.</h2>
+<h2 align="center">A Passionate Computer Science Student at the University of Waterloo</h2>
 
 <p align="left">My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS and am scheduled to complete it in 2024.</p>
 <br>
 <p align="left">I am interested specifically in FinTech, Software Engineering, and Data Science. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
 <br>
 
-<p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional in the field of computer science.</p>
+<p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional.</p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadz985&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadz985" /> </p>
