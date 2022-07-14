@@ -59,11 +59,11 @@ Github Stats: <a href="https://github.com/anuraghazra/github-readme-stats">Anura
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="left" height="300" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadz985&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="left" height="300" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhzaman-cs&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
 </a>
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="right" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=muhammadz985&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="right" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=mhzaman-cs&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
 </a>
 
