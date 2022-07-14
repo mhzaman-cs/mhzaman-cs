@@ -13,7 +13,7 @@
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional.</p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadz985&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadz985" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhzaman-cs&label=Profile%20views&color=0e75b6&style=flat" alt="mhzaman-cs" /> </p>
 
 <br>
 
@@ -59,11 +59,11 @@ Github Stats: <a href="https://github.com/anuraghazra/github-readme-stats">Anura
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="left" height="300" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhzaman-cs&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="left" height="300" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhzaman-cs&show_icons=true&locale=en&langs_count=6&layout=compact&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="mhzaman-cs" />
 </a>
 
 
 <a href="https://muhammadzaman.tech/">
-  <img align="right" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=mhzaman-cs&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="muhammadz985" />
+  <img align="right" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=mhzaman-cs&show_icons=true&count_private=true&locale=en&title_color=00ADB5&text_color=528D8C&icon_color=11999E&bg_color=222831" alt="mhzaman-cs" />
 </a>
 
