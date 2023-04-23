@@ -5,7 +5,7 @@
 
 <h2 align="center">A Passionate Computer Science Student at the University of Waterloo</h2>
 
-<p align="left">My full name is Miles (my legal first name is Muhammad) Hamza Zaman and I have been coding since I was 13. My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS with a minor in statistics.</p>
+<p align="left">My full name is Miles Zaman and I have been coding since I was 13. My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS with a minor in statistics.</p>
 <br>
 <p align="left">I am interested specifically in FinTech, Software Engineering, and Data Science. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
 <br>
