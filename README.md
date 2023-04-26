@@ -1,5 +1,5 @@
 <!-- [![Intro Gif](GitHubReadMe.gif)](https://www.mhzaman.com/) -->
-[<img src="introGitHub.gif" width="100%"/>](https://www.mhzaman.com/)
+[<img src="intro.gif" width="100%"/>](https://www.mhzaman.com/)
 
 
 
