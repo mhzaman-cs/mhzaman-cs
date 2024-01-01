@@ -5,9 +5,9 @@
 
 <h2 align="center">A Passionate Computer Science Student at the University of Waterloo</h2>
 
-<p align="left">My full name is Miles Zaman and I have been coding since I was 13. My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS with a minor in statistics.</p>
+<p align="left">My full name is Miles Zaman and I have been coding since I was 13. My passion for programming brought me to the Cheriton School of Computer Science at the University of Waterloo. I am working towards my BCS with an Artificial Intelligence Specialization and a Minor in Statistics.</p>
 <br>
-<p align="left">I am interested specifically in FinTech, Software Engineering, and Data Science. I continue to develop these skills through online coursework, side projects, and hackathons.</p>
+<p align="left">I am keen on exploring various professional domains, and I have been honing my skills through online coursework, side projects, and hackathons (refer to my GitHub for more information).</p>
 <br>
 
 <p align="left">I value hard work, equality, and honesty. I like keeping up with the latest news in the world of technology and spending time with family. In the coming years, I hope to develop both as a person and as a working professional.</p>
