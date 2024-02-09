@@ -31,8 +31,6 @@
 
 <h3 align="left">👨‍💻 All of my projects are available at <a href="https://github.com/mhzaman-cs">https://github.com/mhzaman-cs</a></h3> 
 
-<h3 align="left">📫 Feel free to send me an email at <a href="mailto:mileszaman@gmail.com">mileszaman@gmail.com</a></h3>
-
 <h3 align="left">📄 Learn more about my experiences on my Linkedin profile: <a href="https://www.linkedin.com/in/miles-zaman">https://www.linkedin.com/in/miles-zaman</a></h3>
 
 
